@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-17T10:04:51Z" name="Default suite" finished-at="2025-04-17T10:04:54Z" duration-ms="2989">
+    <groups>
+    </groups>
+    <test started-at="2025-04-17T10:04:51Z" name="Default test" finished-at="2025-04-17T10:04:54Z" duration-ms="2989">
+      <class name="E2EAPIFlow.LoginRS">
+        <test-method signature="loginToApplication()[pri:1, instance:E2EAPIFlow.LoginRS@2d778add]" started-at="2025-04-17T10:04:51Z" name="loginToApplication" finished-at="2025-04-17T10:04:53Z" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="createProduct()[pri:2, instance:E2EAPIFlow.LoginRS@2d778add]" started-at="2025-04-17T10:04:53Z" name="createProduct" finished-at="2025-04-17T10:04:53Z" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method signature="createOrder()[pri:3, instance:E2EAPIFlow.LoginRS@2d778add]" started-at="2025-04-17T10:04:53Z" name="createOrder" finished-at="2025-04-17T10:04:53Z" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrder -->
+        <test-method signature="viewOrderdetails()[pri:4, instance:E2EAPIFlow.LoginRS@2d778add]" started-at="2025-04-17T10:04:53Z" name="viewOrderdetails" finished-at="2025-04-17T10:04:53Z" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewOrderdetails -->
+        <test-method signature="deleteProduct()[pri:5, instance:E2EAPIFlow.LoginRS@2d778add]" started-at="2025-04-17T10:04:53Z" name="deleteProduct" finished-at="2025-04-17T10:04:54Z" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+      </class> <!-- E2EAPIFlow.LoginRS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
